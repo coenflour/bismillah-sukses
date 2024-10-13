@@ -13,13 +13,11 @@ To-Do List for Creating a K-Hype Website:
 	3.	Website Development:
 	•	Platform Selection: Choose a development platform, such as WordPress or custom code using HTML, CSS, JavaScript, or frameworks like React or Angular.
 	•	Page Structure:
-	•	Homepage
-	•	News Page
-	•	Idol/Group Profiles
-	•	Schedule Page (comebacks, concerts)
-	•	Photo/Video Gallery
-	•	Backend Development: Build a backend system using appropriate frameworks (e.g., PHP, Node.js) to manage content and databases.
-	•	Database Setup: Establish a database for storing idol data, news, schedules, and other information.
+		1. Homepage
+		2. News Page
+  		3. Idol/Group Profiles
+		4. Schedule Page (comebacks, concerts)
+		5. Photo/Video Gallery
  
 	4.	Content Creation:
 	•	News Updates: Prepare and post the latest K-Pop news.
@@ -39,8 +37,3 @@ To-Do List for Creating a K-Hype Website:
 	7.	Launch:
 	•	Soft Launch: Conduct a soft launch by allowing a small group to test the site.
 	•	Official Launch: Promote the site on social media and K-Pop forums when the site is fully ready.
- 
-	8.	Maintenance and Updates:
-	•	Regular Content Updates: Continuously update news, schedules, and idol/group information.
-	•	Performance Monitoring: Track visitor statistics and make improvements as necessary.
-	•	Technical Updates: Regularly update platforms, plugins, and ensure the security systems are up to date.
