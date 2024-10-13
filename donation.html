@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donation</title>
+
+    <link rel="stylesheet" href="donation.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="donation.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="step" id="amount">
+            <p>Support us to continue developing this website by donating</p>
+            <h3>Select a Donation Amount</h3>
+            <div class="amount" data-amount="10k">10k</div>
+            <div class="amount" data-amount="25k">25k</div>
+            <div class="amount" data-amount="50k">50k</div>
+            <div class="amount" data-amount="50k">100k</div>
+        </div>
+        <div class="step" id="name">
+
+            <form action="" class="info">
+                <label for="donorName">Name</label>
+                <input type="text" id="donorName" />
+            </form>
+        </div>
+        <div class="step" id="payment">
+            <h3>Select Payment Method</h3>
+            <select id="paymentMethod">
+                <option value="Shopeepay">Shopeepay</option>
+                <option value="Dana">Dana</option>
+                <option value="Gopay">Gopay</option>
+                <option value="Ovo">Ovo</option>
+            </select>
+        </div>
+        <div class="step" id="finalStep">
+            <h3>Review and Complete Donation</h3>
+            <p>Amount: <span id="reviewAmount"></span></p>
+            <p>Name: <span id="reviewName"></span></p>
+            <p>Payment Method: <span id="reviewPaymentMethod"></span></p>
+        <div class="step" id="sign">
+            <h3>Please, sign first</h3>
+            <canvas id="signatureCanvas" width="300" height="150" style="border: 1px solid #000; background-color: white;"></canvas>
+            <div class="final">Complete Donation</div>
+        </div>
+    </div>
+    
+</body>
+</html>
