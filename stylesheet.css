@@ -1,0 +1,109 @@
+img {
+    box-shadow: 5px 5px 10px rgb(162, 160, 160);
+    border-radius: 10px;
+  }
+  
+#svt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 100vh; 
+ }
+ 
+ 
+ #svt img {
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+ }
+ 
+ #svt p, #svt .deskripsi {
+    margin-bottom: 20px;
+ }
+ 
+ #svt .inside {
+    padding: 50px;
+ }
+ 
+ .gambar-svt {
+    margin-left: 40px;
+ }
+ 
+ #txt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 100vh; 
+ }
+ 
+ #txt img {
+    margin-bottom: 30px; 
+    margin-bottom: 30px; 
+    margin-left: 60px;
+ }
+ 
+ #txt p, #txt .deskripsi {
+    margin-bottom: 20px;
+ }
+ 
+ #txt .inside {
+    padding: 50px; 
+ }
+ 
+ .gambar-txt {
+    margin-left: 40px;
+ }
+ 
+ #enhypen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 100vh; 
+ }
+ 
+ #enhypen img {
+    margin-bottom: 30px; 
+    margin-bottom: 30px; 
+    margin-left: 60px;
+ }
+ 
+ #enhypen p, #enhypen .deskripsi {
+    margin-bottom: 20px;
+ }
+ 
+ #enhypen .inside {
+    padding: 50px; 
+ }
+ 
+ .gambar-enhypen {
+    margin-left: 40px;
+ }
+ 
+ #newjeans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    height: 100vh; 
+ }
+ 
+ #newjeans img {
+    margin-bottom: 30px; 
+    margin-bottom: 30px; 
+    margin-left: 60px;
+ }
+ 
+ #newjeans p, #newjeans .deskripsi {
+    margin-bottom: 20px;
+ }
+ 
+ #newjeans .inside {
+    padding: 50px; 
+ }
+ 
+ .gambar-newjeans {
+    margin-left: 40px;
+ }

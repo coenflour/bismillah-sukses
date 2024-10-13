@@ -1,0 +1,19 @@
+body {
+    margin: 55px;
+    padding: 30px;
+    font-family:Georgia, serif;
+    background-image: linear-gradient(#ffb2de, #d2e0fb);
+    font-size: 20;
+}
+
+fieldset {
+    background-color: rgb(231, 230, 230);
+}
+
+legend {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 20px;
+    color: #364f6b;
+    line-height: 50px;
+}

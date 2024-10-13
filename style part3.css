@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Menyusun elemen secara vertikal */
+    height: 100vh;
+    margin: 0; /* Hapus margin agar gambar tepat di atas layar */
+    font-family:Georgia, serif ;
+}
+
+#header-container {
+    text-align: center;
+    margin-top: 20px; /* Atur margin atas pada header jika diperlukan */
+}
+
+#header {
+    font-size: 24px; /* Atur ukuran font header sesuai kebutuhan */
+}
+
+#image-container {
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+    
+
+#main-image {
+    width: 100%;
+    max-width: 1600px; /* Atur lebar gambar maksimum */
+    height: auto; /* Biarkan tinggi gambar mengikuti proporsi aslinya */
+    margin-top: 0px; /* Atur margin atas pada gambar jika diperlukan */
+}
+
+.card {
+    box-shadow: 10px 5px 5px rgb(185, 185, 232);
+}
+
+
+
+section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;    
+}
+
+section .card {
+    width: 100%;
+    transition: transform 0.3s;
+}
+
+section .card:hover {
+    transform: scale(1.2);
+}
+
+.container {
+    margin-left: 3px;
+}
