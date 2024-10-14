@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link href="form.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="review form.js"></script>
+</head>
+<body>
+    <form id="reviewForm">
+        <fieldset>
+            <legend><h1 style="text-align: center; font-family: Poppins; background-color: #d2e0fb;">REVIEW FORM</h1></legend>
+            <table>
+                <tr>
+                    <td>Date :</td>
+                    <td><input type="date"></td>
+                </tr>
+                <tr>
+                    <td>First Name :</td>
+                    <td><input type="text" id="firstName"></td>
+                </tr>
+                <tr>
+                    <td>Last Name :</td>
+                    <td><input type="text" id="lastName"></td>
+                </tr>
+                <tr>
+                    <td>Email :</td>
+                    <td><input type="email" id="email"></td>
+                </tr>
+                <tr>
+                    <td>Gender :</td>
+                    <td><input type="radio" name="gender" value="male"> Male
+                        <input type="radio" name="gender" value="female"> Female
+                    </td>
+                </tr>
+                <tr>
+                    <td>How much you like this website?</td>
+                    <td><input type="range" id="websiteRating"></td>
+                </tr>
+                <tr>
+                    <td>Choose your favorite content</td>
+                    <td>
+                        <select id="favoriteContent">
+                            <option>News</option>
+                            <option>Concert</option>
+                            <option>Group</option>
+                            <option>Comeback</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="suggestion">What suggestions would you like to give?</label></td>
+                    <td><textarea id="suggestion" name="suggestion" rows="4" cols="50"></textarea></td>
+                </tr>
+            </table>
+            <input type="submit" value="Submit Form"/>
+        </fieldset>
+    </form>
+</body>
+</html>
