@@ -1,0 +1,61 @@
+body{
+   background-color: white ;
+}
+
+#fml {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 100vh; 
+ }
+ 
+ /* Memberikan jarak antara gambar dan teks/paragraf */
+ #fml img {
+    margin-bottom: 30px; /* Atur jarak ke bawah */
+    margin-bottom: 30px; /* Atur jarak ke bawah */
+    margin-left: 60px;
+ }
+ #fml p {
+    margin-bottom: 20px;
+ }
+ 
+ /* Atau Anda juga bisa menggunakan padding untuk memberikan jarak internal pada elemen yang berisi teks */
+ #fml .inside {
+    padding: 50px; /* Atur jarak internal di dalam elemen .inside */
+ }
+ .gambar-fml {
+    margin-left: 40px;
+ }
+ #judul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 5vh; 
+ }
+ #mv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 10vhh; 
+}
+
+/* Memberikan jarak antara gambar dan teks/paragraf */
+#mv img {
+ margin-bottom: 30px; /* Atur jarak ke bawah */
+ margin-bottom: 30px; /* Atur jarak ke bawah */
+ margin-left: 60px;
+}
+#mv p {
+ margin-bottom: 20px;
+}
+
+/* Atau Anda juga bisa menggunakan padding untuk memberikan jarak internal pada elemen yang berisi teks */
+#mv.inside {
+ padding: 50px; /* Atur jarak internal di dalam elemen .inside */
+}
+.gambar-mv{
+ margin-left: 40px;
+}
