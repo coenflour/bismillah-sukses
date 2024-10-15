@@ -1,39 +1,45 @@
-To-Do List for Creating a K-Hype Website:
+K-HYPE
 
-	1.	Planning and Preparation:
-	•	Content Research: Determine the type of content to be provided, such as news, idol profiles, comeback schedules, videos, and more.
-	•	Target Audience: Define the target audience, which may include new fans, long-time fans, or fans of specific K-Pop groups.
-	•	Domain & Hosting: Select and purchase an appropriate domain (e.g., K-Hype.com) and hosting service that meets the website’s needs.
- 
-	2.	Website Design:
-	•	Wireframe: Develop a wireframe or layout sketch of the website.
-	•	CSS Display: Ensure the design is user-friendly and visually attractive to K-Pop fans by using appropriate colors, fonts, and icons.
-	•	Logo & Branding: Create a logo that reflects the K-Pop theme and enhances the website’s branding.
- 
-	3.	Website Development:
-	•	Platform Selection: Choose a development platform, such as WordPress or custom code using HTML, CSS, JavaScript, or frameworks like React or Angular.
-	•	Page Structure:
-		1. Homepage
-		2. News Page
-  		3. Idol/Group Profiles
-		4. Schedule Page (comebacks, concerts)
-		5. Photo/Video Gallery
- 
-	4.	Content Creation:
-	•	News Updates: Prepare and post the latest K-Pop news.
-	•	Group/Idol Profiles: Develop detailed profiles for K-Pop groups and idols.
-	•	Schedules: Add and maintain information on comeback and event schedules.
-	•	Social Media Integration: Link the website to relevant social media platforms.
- 
-	5.	SEO Optimization:
-	•	On-Page SEO: Optimize each page with appropriate keywords to improve search engine rankings.
-	•	Mobile-Friendly: Ensure the website is responsive and optimized for any PC devices.
-	•	Speed Optimization: Improve site performance to ensure quick load times.
- 
-	6.	Testing:
-	•	Cross-Browser Testing: Verify the site’s functionality across all major browsers, including Chrome, Firefox, and Safari.
-	•	Bug Fixing: Resolve any technical issues before the official launch.
- 
-	7.	Launch:
-	•	Soft Launch: Conduct a soft launch by allowing a small group to test the site.
-	•	Official Launch: Promote the site on social media and K-Pop forums when the site is fully ready.
+K-HYPE is a website built around the vibrant culture of K-Pop music and its dedicated fans. The website provides comprehensive information about HYBE Entertainment, one of the leading K-Pop agencies. On K-HYPE, users can find the latest updates on the agency, including artist profiles, group information, news, concert schedules, upcoming events, recent comebacks, and complete discographies.
+
+The main purpose of K-HYPE is to serve as a platform where K-Pop fans can access real-time updates about their favorite artists, with easy access anytime, anywhere.
+
+Website Overview
+
+K-HYPE consists of several key pages and features:
+
+	1.	Login Page: Users can log in to access exclusive features.
+	2.	Forgot Password Page: Users can reset their password if needed.
+	3.	Main Page/Home/Profile: The main page provides an overview of the agency, artist profiles, and the latest news.
+	4.	News Section: Features the latest news about HYBE Entertainment and its artists.
+	5.	Concert Section: Displays the upcoming concert and event schedules of HYBE artists.
+	6.	Groups Section: Detailed profiles of all groups and artists under HYBE.
+	7.	Comeback Section: Information on the latest comebacks, complete with discography details.
+	8.	About/Footer: General information about the website and its developers.
+	9.	Review Page: Users can leave reviews about artists or content.
+	10.	Contact Page: A section where users can reach out to the K-HYPE team.
+	11.	Donate Page: Allows users to support the development of the website through donations.
+
+Main accessible pages:
+
+	•	Login Page: For users to log into their accounts.
+	•	Home/Profile Page: Displays all relevant information about HYBE and its artists.
+	•	News Page: Offers the latest news and updates on K-Pop and HYBE Entertainment.
+	•	Concert Page: Information on upcoming concerts and events of HYBE artists.
+	•	Groups Page: Complete artist and group profiles, including details on the latest comebacks.
+	•	Review Page: Allows users to leave reviews on artists or past events.
+	•	Contact Page: For users to contact the website developers.
+	•	Donate Page: Users can donate to support the website’s development.
+
+Features
+
+	•	Comprehensive HYBE Entertainment Info: Profiles of all artists and groups under HYBE.
+	•	Latest K-Pop News: Stay up-to-date with the latest news in K-Pop, especially related to HYBE artists.
+	•	Concert and Event Schedules: A full schedule of upcoming concerts and events of HYBE artists.
+	•	Artist Profiles and Comebacks: Details on artist comebacks and their full discographies.
+	•	User Reviews: A feature allowing users to submit reviews.
+	•	Contact and Donate: Easy communication with the developers and a donation option to support the website.
+
+Contact
+
+This website was created by Nadifah, Hana, and Sofia. If you have any questions or feedback regarding this project, feel free to contact us via email at k-hype@contact.com.
